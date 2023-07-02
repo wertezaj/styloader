@@ -168,6 +168,9 @@ hr.light{
     font-size: 3em;
     padding: 1.5rem;
   }
+  .navbar-brand{
+    width:20%;
+  }
 }
 @media (max-width: 576px) {
   
